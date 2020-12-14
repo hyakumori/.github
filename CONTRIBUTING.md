@@ -14,7 +14,7 @@ to track issues and feature requests, as well as accept pull requests.
 ## Pull Requests
 We actively welcome your pull requests.
 
-1. Fork the repo and create your branch from `next`.
+1. Fork the repo and create your branch from `develop` or `next`.
 2. If you've added code that should be tested, add tests.
 3. If you've changed APIs, update the documentation.
 4. Ensure the test suite passes.
@@ -44,7 +44,7 @@ If possible please provide a minimal demo of the problem.
 ## Coding Style  
 * 2 spaces for indentation rather than tabs
 * 80 character line length
-* Run `npm run lint` to conform to our lint rules
+* Run a linter to conform to each repository's lint rules
 
 ## License
 By contributing to Hyakumori, you agree that your contributions will be licensed
