@@ -1,4 +1,4 @@
-Welcome to the SMASH community
+Welcome to this community
 
 Grant and take critique constructively, observing desired privacy.
 Settle disputes within these confines.
